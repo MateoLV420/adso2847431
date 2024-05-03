@@ -15,3 +15,7 @@
 |URL Netlify/Vercel      |
 |---          |
 | [Open Link](https://adso2847431.netlify.app) |
+
+|URL Excel     |
+|---          |
+| [Open Link](https://tinyurl.com/yt79hshy) |
