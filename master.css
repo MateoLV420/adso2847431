@@ -112,6 +112,7 @@ body {
     justify-content: center;
     align-items: center;
     min-width: 100vh;
+    text-align: center;
 }
 
 nav {
@@ -122,6 +123,7 @@ nav {
     top: 20px;
     left: 20px;
     transition: all 0.4s ease-in-out;
+    text-align: center;
     a:is(:link,
     : visited) {
         svg {
