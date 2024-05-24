@@ -186,6 +186,7 @@ main {
             padding: 10px;
             transition: all 0.4s ease-in-out;
             width: 280px;
+            align-items: center;
             span {
                 font-size: 2rem;
             }
